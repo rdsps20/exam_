@@ -1,0 +1,18 @@
+.active-nav {
+    border-top: 3px solid rgb(66, 179, 66);
+    border-radius: 5px;
+}
+
+.non-active {
+    background-color: rgb(206, 206, 206);
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.nav-link{
+    color: gray;
+}
+
+.nav-link:hover{
+    color: gray;
+}

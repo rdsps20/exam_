@@ -1,0 +1,27 @@
+#add_branch {
+    font-size: 36px;
+}
+
+#add_branch_div {
+    border-bottom: 1px solid #dbd3d3;
+}
+
+label {
+    color : #a3a2a2;
+}
+
+#submit{
+    background-color: #5e5c5c; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+#branch_manager {
+    width: 190px;
+}

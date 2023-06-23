@@ -1,0 +1,32 @@
+#employee_lists {
+    border-top: 1px solid #ddd;
+    
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: grey;
+  }
+
+  #edit-employee-btn {
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(80, 80, 248);
+    color: white;
+  }
+
+  #delete-employee-btn {
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(240, 164, 66);
+    color: white;
+  }
